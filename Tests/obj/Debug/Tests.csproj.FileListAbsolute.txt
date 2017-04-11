@@ -1,0 +1,13 @@
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\bin\Debug\WebDriver.dll
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\bin\Debug\WebDriver.xml
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\Joseph\Desktop\SeleniumWebDriver\SeleniumWebDriver\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\Joseph\Desktop\SeleniumWebDriver\Open Portal Automation\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\Joseph\Desktop\SeleniumWebDriver\Open Portal Automation\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\Joseph\Desktop\SeleniumWebDriver\Open Portal Automation\Tests\Tests\obj\Debug\Tests.pdb
